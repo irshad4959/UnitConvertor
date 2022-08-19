@@ -1,0 +1,68 @@
+*{
+    margin: auto;
+    box-sizing: border-box;
+    background-color:green;
+}
+
+form{
+    margin-left: 25%;
+    margin-top: 10%;
+    width: 700px;
+    height: 500px;
+    background-color: skyblue;
+    color:white;
+}
+label{
+    width: 150px;
+    color : lime;
+    background-color: skyblue;
+    font-size: 35px;
+    font-weight: 600;
+    /* margin: 25px 50px 25px 0px; */
+    
+}
+input#feet{
+    width: 275px;
+    border: 1px solid blue;
+    border-radius: 11px;
+    height: 35px;
+    padding-left: 35px;
+    margin-left: 25px;
+    font-size: 1.5em;
+    background-color: white;
+    
+}
+h1{
+    font-size: 40px;
+    font-weight: 600;
+    background-color: tomato;
+    color: whitesmoke;
+    text-align: center;
+
+}
+.row{
+    width: 400px;
+    text-align: left;
+    margin: 25px auto;
+    background-color: skyblue;
+}
+
+#button{
+    background-color: rgb(230, 150, 137);
+    border: none;
+    box-shadow: 0px 15px 10px 5px rgb(209, 233, 173);
+    color: aliceblue;
+    width: 250px;
+    height: 50px;
+    padding: 5px 10px ;
+    line-height: 2em;
+    font-size: 1.5em;
+    text-align: center;
+    margin: 45px 100px;
+
+}
+#results{
+    color: yellow;
+    font-size: 3em;
+    text-align: center;
+}
